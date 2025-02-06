@@ -32,7 +32,7 @@ def infinityStonesGame():
             else:
                 print(f"Sorry, that is incorrect. Try again.")
 
-    #Game complete
+    #Game incomplete
     print("Congratulations! You have collected all six Infinity Stones.")
     print(", ".join(collected))
     print("You have successfully completed the Infinity Stones Game!")
